@@ -1,9 +1,40 @@
 > 记录自己在学习、工作、生活等方面的一些方法与认识，包括但不限于优质博客、资料、技术文章、学习方法、工具利器等等。
 
 # 目录
-- 学习
-- 工作
-- 生活
+- [学习](https://github.com/dyfloveslife/aewsome-technology-life-growth#%E5%AD%A6%E4%B9%A0)
+  - [Java 基础](https://github.com/dyfloveslife/aewsome-technology-life-growth#java-%E5%9F%BA%E7%A1%80)
+  - [Java 容器](https://github.com/dyfloveslife/aewsome-technology-life-growth#java-%E5%AE%B9%E5%99%A8)
+  - [Java 多线程](https://github.com/dyfloveslife/aewsome-technology-life-growth#java-%E5%A4%9A%E7%BA%BF%E7%A8%8B)
+  - [JDK 源码](https://github.com/dyfloveslife/aewsome-technology-life-growth#jdk-%E6%BA%90%E7%A0%81)
+  - [JVM](https://github.com/dyfloveslife/aewsome-technology-life-growth#jvm)
+  - [计算机网络](https://github.com/dyfloveslife/aewsome-technology-life-growth#%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C)
+  - [操作系统](https://github.com/dyfloveslife/aewsome-technology-life-growth#%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)
+  - [数据结构与算法](https://github.com/dyfloveslife/aewsome-technology-life-growth#%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95)
+    - 剑指 Offer
+    - LeetCode
+  - [数据库](https://github.com/dyfloveslife/aewsome-technology-life-growth#%E6%95%B0%E6%8D%AE%E5%BA%93)
+  - [Redis](https://github.com/dyfloveslife/aewsome-technology-life-growth#redis)
+  - [MyBatis](https://github.com/dyfloveslife/aewsome-technology-life-growth#mybatis)
+  - [MySQL](https://github.com/dyfloveslife/aewsome-technology-life-growth#mysql)
+  - [Linux](https://github.com/dyfloveslife/aewsome-technology-life-growth#linux)
+  - [Spring 相关](https://github.com/dyfloveslife/aewsome-technology-life-growth#spring-%E7%9B%B8%E5%85%B3)
+    - Spring
+    - Spring MVC
+    - Spring Cloud
+  - [设计模式](https://github.com/dyfloveslife/aewsome-technology-life-growth#%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)
+  - [Docker](https://github.com/dyfloveslife/aewsome-technology-life-growth#docker)
+  - [Kafka](https://github.com/dyfloveslife/aewsome-technology-life-growth#kafka)
+  - [Dubbo](https://github.com/dyfloveslife/aewsome-technology-life-growth#dubbo)
+  - [消息队列](https://github.com/dyfloveslife/aewsome-technology-life-growth#%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97)
+  - [架构设计与分布式](https://github.com/dyfloveslife/aewsome-technology-life-growth#%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%88%86%E5%B8%83%E5%BC%8F)
+  - [面经](https://github.com/dyfloveslife/aewsome-technology-life-growth#%E9%9D%A2%E7%BB%8F)
+  - [Python](https://github.com/dyfloveslife/aewsome-technology-life-growth#python)
+  - [C #](https://github.com/dyfloveslife/aewsome-technology-life-growth#c-sharp)
+
+  - [工作](https://github.com/dyfloveslife/aewsome-technology-life-growth#%E5%B7%A5%E4%BD%9C)
+    - [其它](https://github.com/dyfloveslife/aewsome-technology-life-growth#%E5%85%B6%E5%AE%83)
+  - [生活](https://github.com/dyfloveslife/aewsome-technology-life-growth#%E7%94%9F%E6%B4%BB)
+    - [随笔](https://github.com/dyfloveslife/aewsome-technology-life-growth#%E9%9A%8F%E7%AC%94)
 
 # 学习
 ## Java 基础
