@@ -31,8 +31,8 @@
   - [Python](https://github.com/dyfloveslife/aewsome-technology-life-growth#python)
   - [C #](https://github.com/dyfloveslife/aewsome-technology-life-growth#c-sharp)
 
-  - [工作](https://github.com/dyfloveslife/aewsome-technology-life-growth#%E5%B7%A5%E4%BD%9C)
-  - [生活](https://github.com/dyfloveslife/aewsome-technology-life-growth#%E7%94%9F%E6%B4%BB)
+- [工作](https://github.com/dyfloveslife/aewsome-technology-life-growth#%E5%B7%A5%E4%BD%9C)
+- [生活](https://github.com/dyfloveslife/aewsome-technology-life-growth#%E7%94%9F%E6%B4%BB)
 
 # 学习
 ## Java 基础
