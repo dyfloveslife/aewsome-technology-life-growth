@@ -32,9 +32,7 @@
   - [C #](https://github.com/dyfloveslife/aewsome-technology-life-growth#c-sharp)
 
   - [工作](https://github.com/dyfloveslife/aewsome-technology-life-growth#%E5%B7%A5%E4%BD%9C)
-    - [其它](https://github.com/dyfloveslife/aewsome-technology-life-growth#%E5%85%B6%E5%AE%83)
   - [生活](https://github.com/dyfloveslife/aewsome-technology-life-growth#%E7%94%9F%E6%B4%BB)
-    - [随笔](https://github.com/dyfloveslife/aewsome-technology-life-growth#%E9%9A%8F%E7%AC%94)
 
 # 学习
 ## Java 基础
@@ -177,7 +175,6 @@ test
 
 
 # 工作
-## 其它
 
 - [《基于相关滤波器（Correlation Filters）的 MOSSE 算法》](https://dyfloveslife.github.io/2019/12/16/Correlation-Filter/)
 - [《基于 Vultr + Ubuntu18.04 + BBR 的 ShadowsocksR 配置教程》](https://dyfloveslife.github.io/2018/05/14/Build-VPS/)
@@ -200,7 +197,6 @@ test
 
 
 # 生活
-## 随笔
 
 - [《我使用的应用软件》](https://dyfloveslife.github.io/2017/03/27/My-computer-application-software/)
 - [《2017 下半年，给自己一个加油》](https://dyfloveslife.github.io/2017/07/12/2017-Second-half/)
