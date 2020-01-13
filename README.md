@@ -20,6 +20,7 @@
   - [Spring 相关](https://github.com/dyfloveslife/aewsome-technology-life-growth#spring-%E7%9B%B8%E5%85%B3)
     - Spring
     - Spring MVC
+    - Spring Boot
     - Spring Cloud
   - [设计模式](https://github.com/dyfloveslife/aewsome-technology-life-growth#%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)
   - [Docker](https://github.com/dyfloveslife/aewsome-technology-life-growth#docker)
@@ -116,6 +117,9 @@ test
 
 
 - Spring MVC
+  - test
+
+- Spring Boot
   - test
 
 - Spring Cloud
