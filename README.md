@@ -37,8 +37,9 @@
   - [面经](https://github.com/dyfloveslife/aewsome-technology-life-growth#%E9%9D%A2%E7%BB%8F)
   - [Python](https://github.com/dyfloveslife/aewsome-technology-life-growth#python)
   - [C #](https://github.com/dyfloveslife/aewsome-technology-life-growth#c-sharp)
-
 - [工作](https://github.com/dyfloveslife/aewsome-technology-life-growth#%E5%B7%A5%E4%BD%9C)
+  - [值得一读](https://github.com/dyfloveslife/aewsome-technology-life-growth#%E5%80%BC%E5%BE%97%E4%B8%80%E8%AF%BB)
+  - [其它](https://github.com/dyfloveslife/aewsome-technology-life-growth#%E5%85%B6%E5%AE%83)
 - [生活](https://github.com/dyfloveslife/aewsome-technology-life-growth#%E7%94%9F%E6%B4%BB)
 
 # 学习
