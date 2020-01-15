@@ -208,7 +208,7 @@ test
 - [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
 - [What Happens When Your Career Becomes Your Whole Identity](https://hbr.org/2019/12/what-happens-when-your-career-becomes-your-whole-identity)
 - [《这一年我在阿里学到的》- 杜屹东的博客](https://www.duyidong.com/2020/01/01/2019-learn-from-alibaba/)
-
+- [MySQL: How to Write a Query That Returns the Top Records in a Group](https://towardsdatascience.com/mysql-how-to-write-a-query-that-returns-the-top-records-in-a-group-12865695f436)
 
 
 
