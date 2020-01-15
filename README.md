@@ -196,7 +196,22 @@ test
 
 
 # 工作
+## 值得一读
+- [Design Philosophy On Data And Semantics](https://www.ardanlabs.com/blog/2017/06/design-philosophy-on-data-and-semantics.html)
+- [FIVE BOOKS](https://fivebooks.com/)
+- [Database Courses at Stanford University](http://infolab.stanford.edu/db_pages/classes.html)
+- [Java Tutorials](https://howtodoinjava.com/)
+- [Algorithms interviews: theory vs. practice](https://danluu.com/algorithms-interviews/)
+- [Programming blog list](https://danluu.com/programming-blogs/)
+- [《No nuances, just buggy code》by Linus Torvalds](https://www.realworldtech.com/forum/?threadid=189711&curpostid=189723)
+- [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
+- [What Happens When Your Career Becomes Your Whole Identity](https://hbr.org/2019/12/what-happens-when-your-career-becomes-your-whole-identity)
+- [《这一年我在阿里学到的》- 杜屹东的博客](https://www.duyidong.com/2020/01/01/2019-learn-from-alibaba/)
 
+
+
+
+## 其它
 - [《基于相关滤波器（Correlation Filters）的 MOSSE 算法》](https://dyfloveslife.github.io/2019/12/16/Correlation-Filter/)
 - [《基于 Vultr + Ubuntu18.04 + BBR 的 ShadowsocksR 配置教程》](https://dyfloveslife.github.io/2018/05/14/Build-VPS/)
 - [《从 Hexo 到 Hugo 的配置与总结》](https://dyfloveslife.github.io/2019/11/16/hexo-to-hugo/)
