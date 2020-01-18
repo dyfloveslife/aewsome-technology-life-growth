@@ -213,6 +213,8 @@ test
 - [有赞技术团队](https://tech.youzan.com/)
 - [美团技术团队](https://tech.meituan.com/)
 - [Hacker News](https://news.ycombinator.com/)
+- [I Contribute to the Windows Kernel. We Are Slower Than Other Operating Systems. Here Is Why.](https://blog.zorinaq.com/i-contribute-to-the-windows-kernel-we-are-slower-than-other-oper/)
+- [美团点评 2019 技术年货](http://dpurl.cn/9zvkFYe)
 
 
 
