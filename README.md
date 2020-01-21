@@ -215,6 +215,7 @@ test
 - [Hacker News](https://news.ycombinator.com/)
 - [I Contribute to the Windows Kernel. We Are Slower Than Other Operating Systems. Here Is Why.](https://blog.zorinaq.com/i-contribute-to-the-windows-kernel-we-are-slower-than-other-oper/)
 - [美团点评 2019 技术年货](http://dpurl.cn/9zvkFYe)
+- [BenchResources.Net - Java tutorial for beginners](https://www.benchresources.net/)
 
 
 
