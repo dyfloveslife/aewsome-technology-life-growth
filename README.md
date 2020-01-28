@@ -48,10 +48,10 @@
 - [《再谈 String s1 = "123" 与 String s2 = new String("123")》](https://dyfloveslife.github.io/2019/12/09/talk-with-String/)
 
 ## Java 容器
-test
+TODO
 
 ## Java 多线程
-test
+TODO
 
 ## JDK 源码
 
@@ -59,15 +59,15 @@ test
   - [《JDK 源码之基础类 Object》](https://dyfloveslife.github.io/2019/12/04/JavaSrc-BasicClass-Object/)
   - [《JDK 源码之基础类 Integer》](https://dyfloveslife.github.io/2019/12/13/JavaSrc-BasicClass-Integer/)
 - 集合类
-  - test
+  - TODO
 - 原子类
-  - test
+  - TODO
 - 同步类
-  - test
+  - TODO
 - 并发集合
-  - test
+  - TODO
 - 多线程
-  - test
+  - TODO
 
 ## JVM 
 
@@ -82,7 +82,7 @@ test
 - [《可变长子网掩码在子网划分中的应用「转」》](https://dyfloveslife.github.io/2019/11/06/VLSM/)
 
 ## 操作系统
-test
+TODO
 
 ## 数据结构与算法
 详见 [LeetCodeAndSwordToOffer](https://github.com/dyfloveslife/LeetCodeAndSwordToOffer)
@@ -99,19 +99,19 @@ test
   - [《剑指 Offer 之 圆圈中最后剩下的数字（约瑟夫环问题）》](https://dyfloveslife.github.io/2019/12/27/offer-Josephus/)
 
 - LeetCode
-  - test
+  - TODO
 
 ## 数据库
-test
+TODO
 
 ## Redis
-test
+TODO
 
 ## MyBatis
-test
+TODO
 
 ## MySQL
-test
+TODO
 
 ## Linux
 
@@ -135,34 +135,34 @@ test
 
 
 - Spring MVC
-  - test
+  - TODO
 
 - Spring Boot
-  - test
+  - TODO
 
 - Spring Cloud
-  - test
+  - TODO
 
 ## 设计模式
-test
+TODO
 
 ## Docker
-test
+TODO
 
 ## Kafka
-test
+TODO
 
 ## Dubbo
-test
+TODO
 
 ## 消息队列
-test
+TODO
 
 ## 架构设计与分布式
-test
+TODO
 
 ## 面经
-test
+TODO
 
 ## Python
 
