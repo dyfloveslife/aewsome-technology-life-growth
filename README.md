@@ -217,7 +217,10 @@ TODO
 - [美团点评 2019 技术年货](http://dpurl.cn/9zvkFYe)
 - [BenchResources.Net - Java tutorial for beginners](https://www.benchresources.net/)
 - [(A few) Ops Lessons We All Learn The Hard Way](https://www.netmeister.org/blog/ops-lessons.html)
-
+- [20 Predictions about Software Development trends in 2020](https://towardsdatascience.com/20-predictions-about-software-development-trends-in-2020-afb8b110d9a0)
+- [《建一支分布式远程团队》](https://myslide.cn/slides/7266)
+- [Druid-A Real-time Analtrical Data Store](http://static.druid.io/docs/druid.pdf)
+- [Serious Security: Understanding how computers count](https://nakedsecurity.sophos.com/2019/12/09/serious-security-understanding-how-computers-count/)
 
 ## 其它
 - [《基于相关滤波器（Correlation Filters）的 MOSSE 算法》](https://dyfloveslife.github.io/2019/12/16/Correlation-Filter/)
