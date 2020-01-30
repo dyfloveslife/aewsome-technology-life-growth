@@ -44,7 +44,6 @@
 
 # 学习
 ## Java 基础
-
 - [《再谈 String s1 = "123" 与 String s2 = new String("123")》](https://dyfloveslife.github.io/2019/12/09/talk-with-String/)
 
 ## Java 容器
@@ -54,7 +53,6 @@ TODO
 TODO
 
 ## JDK 源码
-
 - 基础类
   - [《JDK 源码之基础类 Object》](https://dyfloveslife.github.io/2019/12/04/JavaSrc-BasicClass-Object/)
   - [《JDK 源码之基础类 Integer》](https://dyfloveslife.github.io/2019/12/13/JavaSrc-BasicClass-Integer/)
@@ -70,14 +68,12 @@ TODO
   - TODO
 
 ## JVM 
-
 - [《Java 内存区域概述》](https://dyfloveslife.github.io/2019/11/18/java-memory-areas/)
 - [《JVM 对象存活和垃圾收集算法》](https://dyfloveslife.github.io/2019/11/20/object-survival-and-gc-algorithm/)
 - [《JVM 垃圾收集器与内存分配策略》](https://dyfloveslife.github.io/2019/11/22/gc-and-memory-allocation-strategy/)
 
 
 ## 计算机网络
-
 - [《软考知识点总结》](https://dyfloveslife.github.io/2019/11/04/ruankao/)
 - [《可变长子网掩码在子网划分中的应用「转」》](https://dyfloveslife.github.io/2019/11/06/VLSM/)
 
@@ -85,7 +81,7 @@ TODO
 TODO
 
 ## 数据结构与算法
-详见 [LeetCodeAndSwordToOffer](https://github.com/dyfloveslife/LeetCodeAndSwordToOffer)
+更多题目，请详见 [LeetCodeAndSwordToOffer](https://github.com/dyfloveslife/LeetCodeAndSwordToOffer)
 - 剑指 Offer
   - [《剑指 Offer 之 重建二叉树》](https://dyfloveslife.github.io/2019/09/11/offer-ConstructBinaryTree/)
   - [《剑指 Offer 之 二维数组中的查找》](https://dyfloveslife.github.io/2019/09/11/offer-FindInPartiallySortedMatrix/)
@@ -114,7 +110,6 @@ TODO
 TODO
 
 ## Linux
-
 - [《情景再现 Linux 中的 IO 模型》](https://dyfloveslife.github.io/2019/11/13/linux-io/)
 - [《Linux 环境下配置 Web 服务器之 通过域名访问主机》](https://dyfloveslife.github.io/2017/05/18/Linux-WebServer-AccessHostThroughDomainName/)
 - [《Linux 环境下配置 FTP 服务器》](https://dyfloveslife.github.io/2017/06/01/Linux-FTP/)
@@ -126,7 +121,6 @@ TODO
 
 
 ## Spring 相关
-
 - Spring
   - [《Spring 学习笔记（零）文章导读》](https://dyfloveslife.github.io/2019/08/03/spring-outline/)
   - [《Spring 学习笔记（一）框架介绍》](https://dyfloveslife.github.io/2019/08/03/spring-framework-introduction/)
@@ -165,7 +159,6 @@ TODO
 TODO
 
 ## Python
-
 - [《Python 学习笔记之 基础语法》](https://dyfloveslife.github.io/2018/07/05/learning-python-BasicGrammar/)
 - [《Python 学习笔记之 基本数据类型》](https://dyfloveslife.github.io/2018/07/06/learning-python-BasicDataType/)
 - [《Python 学习笔记之 运算符》](https://dyfloveslife.github.io/2018/07/07/learning-python-Operator/)
@@ -184,7 +177,6 @@ TODO
 
 
 ## C-sharp
-
 - [《C# 之 字符串格式化》](https://dyfloveslife.github.io/2017/04/27/StringFormatting/)
 - [《C# 之 控制台程序》](https://dyfloveslife.github.io/2017/06/14/Console-program/)
 - [《C# 之 窗体编程》](https://dyfloveslife.github.io/2017/06/15/Form-programming/)
@@ -218,7 +210,7 @@ TODO
 - [BenchResources.Net - Java tutorial for beginners](https://www.benchresources.net/)
 - [(A few) Ops Lessons We All Learn The Hard Way](https://www.netmeister.org/blog/ops-lessons.html)
 - [20 Predictions about Software Development trends in 2020](https://towardsdatascience.com/20-predictions-about-software-development-trends-in-2020-afb8b110d9a0)
-- [《建一支分布式远程团队》](https://myslide.cn/slides/7266)
+- [《建一支分布式远程团队》- 陈皓](https://myslide.cn/slides/7266)
 - [Druid-A Real-time Analtrical Data Store](http://static.druid.io/docs/druid.pdf)
 - [Serious Security: Understanding how computers count](https://nakedsecurity.sophos.com/2019/12/09/serious-security-understanding-how-computers-count/)
 
@@ -244,7 +236,6 @@ TODO
 
 
 # 生活
-
 - [《我使用的应用软件》](https://dyfloveslife.github.io/2017/03/27/My-computer-application-software/)
 - [《2017 下半年，给自己一个加油》](https://dyfloveslife.github.io/2017/07/12/2017-Second-half/)
 - [《2017 年总结》](https://dyfloveslife.github.io/2018/02/11/2017-summary/)
@@ -262,4 +253,3 @@ TODO
 - [《坚持不懈》](https://dyfloveslife.github.io/2019/02/28/20190228/)
 - [《我的一些思考》](https://dyfloveslife.github.io/2019/03/07/some-of-my-thoughts/)
 - [《打好这一仗！》](https://dyfloveslife.github.io/2019/12/24/fight-in-2020/)
-
