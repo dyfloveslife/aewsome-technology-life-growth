@@ -214,7 +214,7 @@ TODO
 - [Druid-A Real-time Analtrical Data Store](http://static.druid.io/docs/druid.pdf)
 - [Serious Security: Understanding how computers count](https://nakedsecurity.sophos.com/2019/12/09/serious-security-understanding-how-computers-count/)
 - [二十四条逻辑谬误](https://mp.weixin.qq.com/s/Ufb0zCnfbJWXhg-MEhofKg)
-
+- [调度系统设计精要](https://draveness.me/system-design-scheduler)
 
 ## 其它
 - [《基于相关滤波器（Correlation Filters）的 MOSSE 算法》](https://dyfloveslife.github.io/2019/12/16/Correlation-Filter/)
