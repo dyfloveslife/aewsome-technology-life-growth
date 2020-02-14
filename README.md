@@ -215,6 +215,13 @@ TODO
 - [Serious Security: Understanding how computers count](https://nakedsecurity.sophos.com/2019/12/09/serious-security-understanding-how-computers-count/)
 - [二十四条逻辑谬误](https://mp.weixin.qq.com/s/Ufb0zCnfbJWXhg-MEhofKg)
 - [调度系统设计精要](https://draveness.me/system-design-scheduler)
+- [Who gains from the great university scam?](https://unherd.com/2019/12/who-gains-from-the-great-university-scam/)
+- [The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition, 2nd Edition](https://www.oreilly.com/library/view/the-pragmatic-programmer/9780135956977/)
+- [BEGINNER’S GUIDE FOR LINUX – Start Learning Linux in Minutes](https://www.tecmint.com/free-online-linux-learning-guide-for-beginners/)
+- [JVM Ecosystem Report 2020](https://snyk.io/blog/jvm-ecosystem-report-2020/)
+- [Effective Python](https://effectivepython.com/)
+- [Learn Python 3 the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code ](https://www.goodreads.com/book/show/35561829-learn-python-3-the-hard-way)
+
 
 ## 其它
 - [《基于相关滤波器（Correlation Filters）的 MOSSE 算法》](https://dyfloveslife.github.io/2019/12/16/Correlation-Filter/)
