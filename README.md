@@ -221,6 +221,8 @@ TODO
 - [JVM Ecosystem Report 2020](https://snyk.io/blog/jvm-ecosystem-report-2020/)
 - [Effective Python](https://effectivepython.com/)
 - [Learn Python 3 the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code ](https://www.goodreads.com/book/show/35561829-learn-python-3-the-hard-way)
+- [分布式系统相关挑战](https://aws.amazon.com/cn/builders-library/challenges-with-distributed-systems/)
+- [Memory Bandwidth Napkin Math](https://www.forrestthewoods.com/blog/memory-bandwidth-napkin-math/)
 
 
 ## 其它
