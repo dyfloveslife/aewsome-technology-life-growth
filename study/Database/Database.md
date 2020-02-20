@@ -72,7 +72,6 @@
   - Redis 与 Memcached 的区别有哪些？
   - Redis 常见性能问题和解决方案？
   - Redis 最适合的场景？
-  - 
 - 其它
   - JDBC 中如何进行事务处理？
   - JDBC 的反射是什么？

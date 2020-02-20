@@ -72,22 +72,21 @@ TODO
 - [《JVM 对象存活和垃圾收集算法》](https://dyfloveslife.github.io/2019/11/20/object-survival-and-gc-algorithm/)
 - [《JVM 垃圾收集器与内存分配策略》](https://dyfloveslife.github.io/2019/11/22/gc-and-memory-allocation-strategy/)
 
-
 ## 计算机网络
+- [面试问题总览](https://github.com/dyfloveslife/aewsome-technology-life-growth/blob/master/study/Network/Network.md)
 - [《软考知识点总结》](https://dyfloveslife.github.io/2019/11/04/ruankao/)
 - [《可变长子网掩码在子网划分中的应用「转」》](https://dyfloveslife.github.io/2019/11/06/VLSM/)
 
 ## 操作系统
-TODO
+- [面试问题总览](https://github.com/dyfloveslife/aewsome-technology-life-growth/blob/master/study/OperatingSystem/OperationSystem.md)
 
 ## 数据结构与算法
-
 - 剑指 Offer
 - LeetCode
   - 请详见 [LeetCodeAndSwordToOffer](https://github.com/dyfloveslife/LeetCodeAndSwordToOffer)
 
 ## 数据库
-TODO
+- [面试问题总览](https://github.com/dyfloveslife/aewsome-technology-life-growth/blob/master/study/Database/Database.md)
 
 ## Redis
 TODO
@@ -99,6 +98,7 @@ TODO
 TODO
 
 ## Linux
+- [面试问题总览](https://github.com/dyfloveslife/aewsome-technology-life-growth/blob/master/study/Linux/Linux.md)
 - [《情景再现 Linux 中的 IO 模型》](https://dyfloveslife.github.io/2019/11/13/linux-io/)
 - [《Linux 环境下配置 Web 服务器之 通过域名访问主机》](https://dyfloveslife.github.io/2017/05/18/Linux-WebServer-AccessHostThroughDomainName/)
 - [《Linux 环境下配置 FTP 服务器》](https://dyfloveslife.github.io/2017/06/01/Linux-FTP/)
@@ -106,23 +106,16 @@ TODO
 - [《Linux 环境下配置 DHCP 服务器》](https://dyfloveslife.github.io/2017/06/03/Linux-DHCP/)
 - [《Linux 环境下配置 DNS 服务器》](https://dyfloveslife.github.io/2017/06/03/Linux-DNS/)
 
-
-
-
 ## Spring 相关
 - Spring
   - [《Spring 学习笔记（零）文章导读》](https://dyfloveslife.github.io/2019/08/03/spring-outline/)
   - [《Spring 学习笔记（一）框架介绍》](https://dyfloveslife.github.io/2019/08/03/spring-framework-introduction/)
   - [《Spring 学习笔记（二）控制反转 IoC》](https://dyfloveslife.github.io/2019/08/03/spring-ioc/)
   - [《Spring 学习笔记（三）依赖注入 DI》](https://dyfloveslife.github.io/2019/08/03/spring-di/)
-
-
 - Spring MVC
   - TODO
-
 - Spring Boot
   - TODO
-
 - Spring Cloud
   - TODO
 
@@ -164,7 +157,6 @@ TODO
 - [《Python 中的 JSON 数据解析》](https://dyfloveslife.github.io/2018/08/14/learning-python-JSON/)
 - [《Python 中的 logging》](https://dyfloveslife.github.io/2018/08/16/learning-python-logging/)
 
-
 ## C-sharp
 - [《C# 之 字符串格式化》](https://dyfloveslife.github.io/2017/04/27/StringFormatting/)
 - [《C# 之 控制台程序》](https://dyfloveslife.github.io/2017/06/14/Console-program/)
@@ -175,7 +167,6 @@ TODO
 - [《C# 之 修改数据库》](https://dyfloveslife.github.io/2017/06/19/Modify-the-database/)
 - [《C# 之 查询数据库》](https://dyfloveslife.github.io/2017/06/19/Query-the-database/)
 - [《C# 之 循环数组》](https://dyfloveslife.github.io/2017/06/25/LoopArray/)
-
 
 # 工作
 ## 值得一读
@@ -213,7 +204,6 @@ TODO
 - [分布式系统相关挑战](https://aws.amazon.com/cn/builders-library/challenges-with-distributed-systems/)
 - [Memory Bandwidth Napkin Math](https://www.forrestthewoods.com/blog/memory-bandwidth-napkin-math/)
 
-
 ## 其它
 - [《基于相关滤波器（Correlation Filters）的 MOSSE 算法》](https://dyfloveslife.github.io/2019/12/16/Correlation-Filter/)
 - [《基于 Vultr + Ubuntu18.04 + BBR 的 ShadowsocksR 配置教程》](https://dyfloveslife.github.io/2018/05/14/Build-VPS/)
@@ -233,7 +223,6 @@ TODO
 - [《Matlab 编译文件时出错，提示 cl.exe 不是内部或外部命令》](https://dyfloveslife.github.io/2019/03/05/compilienn-file/)
 - [《用迁移学习来区分外星人和铁血战士》](https://dyfloveslife.github.io/2019/04/08/how-to-distinguish-Aliens-vs-Predators-with-transfer-learning/)
 - [《Chrome 浏览器使用小贴士》](https://dyfloveslife.github.io/2019/05/12/chrome-tips/)
-
 
 # 生活
 - [《我使用的应用软件》](https://dyfloveslife.github.io/2017/03/27/My-computer-application-software/)
