@@ -1,4 +1,4 @@
-> 记录自己在学习、工作、生活等方面的一些方法与认识，包括但不限于优质博客、资料、技术文章、学习方法、工具利器等等。
+> 记录自己在学习、工作、生活等方面的一些方法与认识，包括但不限于笔试面试知识点、优质博客、资料、技术文章、学习方法、工具利器等等。
 
 # 目录
 - [学习](https://github.com/dyfloveslife/aewsome-technology-life-growth#%E5%AD%A6%E4%B9%A0)
@@ -81,21 +81,10 @@ TODO
 TODO
 
 ## 数据结构与算法
-更多题目，请详见 [LeetCodeAndSwordToOffer](https://github.com/dyfloveslife/LeetCodeAndSwordToOffer)
-- 剑指 Offer
-  - [《剑指 Offer 之 重建二叉树》](https://dyfloveslife.github.io/2019/09/11/offer-ConstructBinaryTree/)
-  - [《剑指 Offer 之 二维数组中的查找》](https://dyfloveslife.github.io/2019/09/11/offer-FindInPartiallySortedMatrix/)
-  - [《剑指 Offer 之 替换空格》](https://dyfloveslife.github.io/2019/09/11/offer-ReplaceSpaces/)
-  - [《剑指 Offer 之 从尾到头打印链表》](https://dyfloveslife.github.io/2019/09/11/offer-PrintListInReversedOrder/)
-  - [《剑指 Offer 之 二叉树的下一个节点》](https://dyfloveslife.github.io/2019/09/11/offer-NextNodeInBinaryTrees/)
-  - [《剑指 Offer 之 数组中重复的数字》](https://dyfloveslife.github.io/2019/09/11/offer-FindDuplicationInArray/)
-  - [《剑指 Offer 之 从整数 1 到 n 中 1 出现的次数》](https://dyfloveslife.github.io/2019/11/28/offer-NumberOf1Between1AndN/)
-  - [《剑指 Offer 之 数字序列中某一位的数字》](https://dyfloveslife.github.io/2019/11/29/offer-DigitsInSequence/)
-  - [《剑指 Offer 之 最长不含重复字符的子字符串》](https://dyfloveslife.github.io/2019/12/11/offer-longest-SubString-Without-Duplication/)
-  - [《剑指 Offer 之 圆圈中最后剩下的数字（约瑟夫环问题）》](https://dyfloveslife.github.io/2019/12/27/offer-Josephus/)
 
+- 剑指 Offer
 - LeetCode
-  - TODO
+  - 请详见 [LeetCodeAndSwordToOffer](https://github.com/dyfloveslife/LeetCodeAndSwordToOffer)
 
 ## 数据库
 TODO
