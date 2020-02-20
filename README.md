@@ -89,13 +89,13 @@ TODO
 - [面试问题总览](https://github.com/dyfloveslife/aewsome-technology-life-growth/blob/master/study/Database/Database.md)
 
 ## Redis
-TODO
+- [面试问题总览](https://github.com/dyfloveslife/aewsome-technology-life-growth/blob/master/study/Database/Database.md)
 
 ## MyBatis
 TODO
 
 ## MySQL
-TODO
+- [面试问题总览](https://github.com/dyfloveslife/aewsome-technology-life-growth/blob/master/study/Database/Database.md)
 
 ## Linux
 - [面试问题总览](https://github.com/dyfloveslife/aewsome-technology-life-growth/blob/master/study/Linux/Linux.md)
@@ -138,7 +138,10 @@ TODO
 TODO
 
 ## 面经
-TODO
+- [数据库相关面经](https://github.com/dyfloveslife/aewsome-technology-life-growth/blob/master/study/Database/Database.md)
+- [操作系统相关面经](https://github.com/dyfloveslife/aewsome-technology-life-growth/blob/master/study/OperatingSystem/OperationSystem.md)
+- [Linux 相关面经](https://github.com/dyfloveslife/aewsome-technology-life-growth/blob/master/study/Linux/Linux.md)
+- [计算机网络相关面经](https://github.com/dyfloveslife/aewsome-technology-life-growth/blob/master/study/Network/Network.md)
 
 ## Python
 - [《Python 学习笔记之 基础语法》](https://dyfloveslife.github.io/2018/07/05/learning-python-BasicGrammar/)
