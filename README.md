@@ -206,6 +206,7 @@ TODO
 - [Learn Python 3 the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code ](https://www.goodreads.com/book/show/35561829-learn-python-3-the-hard-way)
 - [分布式系统相关挑战](https://aws.amazon.com/cn/builders-library/challenges-with-distributed-systems/)
 - [Memory Bandwidth Napkin Math](https://www.forrestthewoods.com/blog/memory-bandwidth-napkin-math/)
+- [Technical Writing Courses](https://developers.google.com/tech-writing)
 
 ## 其它
 - [《基于相关滤波器（Correlation Filters）的 MOSSE 算法》](https://dyfloveslife.github.io/2019/12/16/Correlation-Filter/)
