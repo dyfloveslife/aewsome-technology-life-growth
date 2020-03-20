@@ -8,7 +8,7 @@ class MyThread extends Thread {
     public static int count;
 
     // 添加 synchronized 关键字即可实现 count 的原子性
-    public static void addCount() {
+    public synchronized static void addCount() {
         for (int i = 0; i < 100; i++) {
             count++;
         }

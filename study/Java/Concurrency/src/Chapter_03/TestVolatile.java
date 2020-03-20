@@ -9,9 +9,9 @@ public class TestVolatile {
         new Thread(td, "ThreadDemo").start();
 
         while (true) {
-//            System.out.println("!!!");
+            System.out.println("!!!");
 //            synchronized (TestVolatile.class){}
-            TestVolatile.test2();
+//            TestVolatile.test2();
 
 //            TestVolatile.test1();
             if (td.flag) {
@@ -30,7 +30,7 @@ public class TestVolatile {
 
 class ThreadDemo implements Runnable {
 
-    public boolean flag = false;
+    public  boolean flag = false;
 
     @Override
     public void run() {
