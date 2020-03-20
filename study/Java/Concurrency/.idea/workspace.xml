@@ -3,14 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ef7586cd-7520-43a9-b514-7f88eed3c8ce" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Concurrency/Chapter_01/MultiThead.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Concurrency/Chapter_01/MultiThead.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Concurrency/Chapter_01/MultiThreadDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Concurrency/Chapter_01/MultiThreadDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Concurrency/Chapter_03/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Concurrency/Chapter_03/MyThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Concurrency/Chapter_03/TestVolatile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Concurrency/Chapter_03/TestVolatile.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Concurrency/Chapter_03/ThreadDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Concurrency/Chapter_03/ThreadDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter_01/MultiThead.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter_01/MultiThead.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter_03/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter_03/Run.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter_03/TestVolatile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter_03/TestVolatile.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,25 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/other/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="576">
-              <caret line="76" column="1" lean-forward="true" selection-start-line="76" selection-start-column="1" selection-end-line="76" selection-end-column="1" />
-              <folding>
-                <element signature="e#42#43#0" expanded="true" />
-                <element signature="e#87#88#0" expanded="true" />
-                <element signature="e#360#361#0" expanded="true" />
-                <element signature="e#396#397#0" expanded="true" />
-                <element signature="e#678#679#0" expanded="true" />
-                <element signature="e#723#724#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -76,7 +50,6 @@
         <option value="$PROJECT_DIR$/src/Chapter_03/TestVolatile.java" />
         <option value="$PROJECT_DIR$/src/Chapter_03/Run.java" />
         <option value="$PROJECT_DIR$/src/Chapter_01/MultiThead.java" />
-        <option value="$PROJECT_DIR$/src/Chapter_03/TestThread.java" />
         <option value="$PROJECT_DIR$/src/Chapter_03/TestSleepOfThread.java" />
         <option value="$PROJECT_DIR$/src/Chapter_02/WaitMethodInThreadTest.java" />
         <option value="$PROJECT_DIR$/src/Chapter_02/SleepMethodInThreadTest.java" />
@@ -95,6 +68,9 @@
         <option value="$PROJECT_DIR$/src/other/CodeBlockTest2.java" />
         <option value="$PROJECT_DIR$/src/other/A.java" />
         <option value="$PROJECT_DIR$/src/other/Test.java" />
+        <option value="$PROJECT_DIR$/src/Chapter_03/TestThread.java" />
+        <option value="$PROJECT_DIR$/src/other/Person.java" />
+        <option value="$PROJECT_DIR$/src/other/SerializableTest.java" />
       </list>
     </option>
   </component>
@@ -155,7 +131,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1584706184931" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1584714684971" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -175,9 +151,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.SerializableTest">
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="other.Demo" />
+      <module name="Concurrency" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="other.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SerializableTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="other.SerializableTest" />
       <module name="Concurrency" />
       <extension name="coverage">
         <pattern>
@@ -215,19 +204,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StaticTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="other.StaticTest" />
-      <module name="Concurrency" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="other.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="other.Test" />
       <module name="Concurrency" />
@@ -243,11 +219,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SerializableTest" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Demo" />
         <item itemvalue="Application.StaticBlockTest" />
         <item itemvalue="Application.StaticMethodTest" />
-        <item itemvalue="Application.StaticTest" />
       </list>
     </recent_temporary>
   </component>
@@ -271,12 +247,12 @@
       <workItem from="1584429245533" duration="8456000" />
       <workItem from="1584440728207" duration="1794000" />
       <workItem from="1584516423230" duration="13173000" />
-      <workItem from="1584682500431" duration="8043000" />
+      <workItem from="1584682500431" duration="13590000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43637000" />
+    <option name="totallyTimeSpent" value="49184000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -289,10 +265,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="886" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.11686587" visible="true" weight="0.16117479" />
-      <window_info id="Structure" order="1" sideWeight="0.8831341" side_tool="true" weight="0.23997134" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.11569149" visible="true" weight="0.20415473" />
+      <window_info id="Structure" order="1" sideWeight="0.8843085" side_tool="true" weight="0.20415473" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -300,7 +275,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5890958" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29388297" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -511,19 +486,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Chapter_02/SleepMethodInThreadTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/Chapter_03/TestThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-          <folding>
-            <element signature="e#148#287#0" expanded="true" />
-            <element signature="e#286#287#0" expanded="true" />
-            <element signature="e#402#403#0" expanded="true" />
-            <element signature="e#465#466#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/DevInstall/src.zip!/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1817">
@@ -665,18 +627,87 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://D:/DevInstall/src.zip!/java/io/FileOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="97" column="55" lean-forward="true" selection-start-line="97" selection-start-column="55" selection-end-line="97" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter_03/TestThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/other/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="76" column="1" lean-forward="true" selection-start-line="76" selection-start-column="1" selection-end-line="76" selection-end-column="1" />
-          <folding>
-            <element signature="e#42#43#0" expanded="true" />
-            <element signature="e#87#88#0" expanded="true" />
-            <element signature="e#360#361#0" expanded="true" />
-            <element signature="e#396#397#0" expanded="true" />
-            <element signature="e#678#679#0" expanded="true" />
-            <element signature="e#723#724#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="42">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/DevInstall/src.zip!/java/io/Externalizable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="81" column="11" selection-start-line="81" selection-start-column="11" selection-end-line="81" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/DevInstall/src.zip!/java/io/ObjectOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="1183" column="55" selection-start-line="1183" selection-start-column="55" selection-end-line="1183" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/abc.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="43" lean-forward="true" selection-start-column="43" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/DevInstall/src.zip!/java/lang/reflect/Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="483" column="18" selection-start-line="483" selection-start-column="18" selection-end-line="483" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/DevInstall/src.zip!/java/io/ObjectStreamClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="1259" column="44" selection-start-line="1259" selection-start-column="44" selection-end-line="1259" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/DevInstall/src.zip!/java/io/ObjectInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="2077" column="41" selection-start-line="2077" selection-start-column="30" selection-end-line="2077" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/SerializableTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/DevInstall/src.zip!/java/io/Serializable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="137" column="5" selection-start-line="137" selection-start-column="5" selection-end-line="137" selection-end-column="5" />
         </state>
       </provider>
     </entry>
