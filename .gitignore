@@ -1,5 +1,5 @@
 *.idea
 
-./study/Java/Concurrency/out
+./study/Java/ConcurrencyAndOtherDemo/out
 
 *.iml
