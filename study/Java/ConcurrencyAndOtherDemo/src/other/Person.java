@@ -1,15 +1,21 @@
 package other;
 
-import java.io.Serializable;
+import java.io.*;
 
 public class Person implements Serializable {
-    private static String name;
-    private int age;
+    private transient String name;
+    private transient int age;
+    private int height;
 
-    public Person(String name, int age) {
+    public Person() {
+        System.out.println("无参构造.");
+    }
+
+    public Person(String name, int age, int height) {
         this.name = name;
         this.age = age;
-        System.out.println("含参的构造.");
+        this.height = height;
+        System.out.println("有参构造.");
     }
 
     @Override
@@ -17,6 +23,7 @@ public class Person implements Serializable {
         return "Person{" +
                 "name='" + name + '\'' +
                 ", age=" + age +
+                ", height=" + height +
                 '}';
     }
 }
