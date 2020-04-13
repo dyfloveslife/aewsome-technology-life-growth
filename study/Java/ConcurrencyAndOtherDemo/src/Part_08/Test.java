@@ -1,101 +1,104 @@
 package Part_08;
 
-import java.util.ArrayList;
-import java.util.List;
-import java.util.function.Consumer;
+import java.util.concurrent.locks.Condition;
+import java.util.concurrent.locks.ReentrantLock;
 
-// 资源
-class MyQueue {
-    private List list = new ArrayList();
+// 资源类
+class MyService {
+    private ReentrantLock lock = new ReentrantLock();
+    // 生产线程
+    private Condition conditionA = lock.newCondition();
+    // 消费线程
+    private Condition conditionB = lock.newCondition();
+    private boolean hasValue = false;
 
-    // 负责生产
-    public synchronized void push() {
+    public void set() {
         try {
-            while (list.size() == 1) {
-                System.out.println("队列已满，线程 " + Thread.currentThread().getName() + " 呈 wait 状态...");
-                wait();
+            lock.lock();
+            while (hasValue == true) {
+                System.out.println("[生产线程] " + "线程: " + Thread.currentThread().getName() + " await...");
+                conditionA.await();
             }
-            list.add(" " + Math.random());
-            System.out.println("线程 " + Thread.currentThread().getName() + " 生产了，队列已满...");
-            notifyAll();
+            System.out.println("[生产中] " + "线程: " + Thread.currentThread().getName() + " 生产~");
+            Thread.sleep(1000);
+            hasValue = true;
+            System.out.println("线程: " + Thread.currentThread().getName() + " 生产完毕...");
+            System.out.println("[唤醒所有消费线程] " + " 线程: " + Thread.currentThread().getName() + "...");
+            conditionB.signalAll();
         } catch (InterruptedException e) {
             e.printStackTrace();
+        } finally {
+            lock.unlock();
         }
     }
 
-    // 负责消费
-    public synchronized String pop() {
-        String temp = "";
+    public void get() {
         try {
-            while (list.size() == 0) {
-                System.out.println("队列已空，线程 " + Thread.currentThread().getName() + " 呈 wait 状态...");
-                wait();
+            lock.lock();
+            while (hasValue == false) {
+                System.out.println("[消费线程] " + "线程: " + Thread.currentThread().getName() + " await...");
+                conditionB.await();
             }
-            temp = "" + list.get(0);
-            list.remove(0);
-            System.out.println("线程 " + Thread.currentThread().getName() + " 消费了，队列已空...");
-            notifyAll();
+            System.out.println("[消费中] " + " 线程: " + Thread.currentThread().getName() + " 消费~");
+            Thread.sleep(1000);
+            System.out.println("线程: " + Thread.currentThread().getName() + " 消费完毕...");
+            hasValue = false;
+            System.out.println("[唤醒所有生产线程] " + " 线程: " + Thread.currentThread().getName() + "...");
+            conditionA.signalAll();
         } catch (InterruptedException e) {
             e.printStackTrace();
+        } finally {
+            lock.unlock();
         }
-        return temp;
     }
+
 }
 
+class MyThreadA extends Thread {
+    private MyService myService;
 
-// 生产者线程
-class ProducerThread extends Thread {
-    private MyQueue queue;
-
-    public ProducerThread(MyQueue queue, String name) {
+    public MyThreadA(MyService myService, String name) {
         super(name);
-        this.queue = queue;
-    }
-
-    public void pushService() {
-        queue.push();
+        this.myService = myService;
     }
 
     @Override
     public void run() {
-        queue.push();
+        while (true) {
+            myService.set();
+        }
     }
 }
 
 
-// 消费者线程
-class ConsumerThread extends Thread {
-    private MyQueue queue;
+class MyThreadB extends Thread {
+    private MyService myService;
 
-    public ConsumerThread(MyQueue queue, String name) {
+    public MyThreadB(MyService myService, String name) {
         super(name);
-        this.queue = queue;
+        this.myService = myService;
     }
 
     @Override
     public void run() {
-        queue.pop();
+        while (true) {
+            myService.get();
+        }
     }
 }
-
 
 public class Test {
-
     public static void main(String[] args) {
-        MyQueue queue = new MyQueue();
+        MyService myService = new MyService();
 
-        new ProducerThread(queue, "Producer1").start();
-        new ProducerThread(queue, "Producer2").start();
-        new ProducerThread(queue, "Producer3").start();
-        new ProducerThread(queue, "Producer4").start();
-        new ProducerThread(queue, "Producer5").start();
+        MyThreadA[] threadA = new MyThreadA[10];
+        MyThreadB[] threadB = new MyThreadB[10];
 
-        new ConsumerThread(queue, "Consumer1").start();
-        new ConsumerThread(queue, "Consumer2").start();
-        new ConsumerThread(queue, "Consumer3").start();
-        new ConsumerThread(queue, "Consumer4").start();
-        new ConsumerThread(queue, "Consumer5").start();
-        new ConsumerThread(queue, "Consumer6").start();
-        new ConsumerThread(queue, "Consumer7").start();
+        for (int i = 0; i < 10; i++) {
+            threadA[i] = new MyThreadA(myService, "ThreadA-" + i);
+            threadB[i] = new MyThreadB(myService, "ThreadB-" + i);
+            threadA[i].start();
+            threadB[i].start();
+        }
     }
 }
