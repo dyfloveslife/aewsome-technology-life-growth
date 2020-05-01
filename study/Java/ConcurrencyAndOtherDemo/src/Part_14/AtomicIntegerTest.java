@@ -2,7 +2,7 @@ package Part_14;
 
 import java.util.concurrent.atomic.AtomicInteger;
 
-public class AtomicTest {
+public class AtomicIntegerTest {
 
     public static void main(String[] args) {
         AtomicInteger atomicInteger = new AtomicInteger(1);
