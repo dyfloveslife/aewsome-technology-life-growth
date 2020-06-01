@@ -473,12 +473,21 @@ DROP PROCEDURE productpricing;
 
 # 参考
 [高性能 MySQL](https://book.douban.com/subject/23008813/)
+
 [面试/笔试第三弹 —— 数据库面试问题集锦](https://blog.csdn.net/justloveyou_/article/details/78308460)
+
 [A Visual Explanation of SQL Joins](https://blog.codinghorror.com/a-visual-explanation-of-sql-joins/)
+
 [图解 SQL 的 JOIN](https://coolshell.cn/articles/3463.html)
+
 [CS-Notes](https://github.com/CyC2018/CS-Notes/blob/master/notes/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86.md)
+
 [数据库设计的三大范式](https://www.cnblogs.com/o-andy-o/archive/2012/01/30/2331615.html)
+
 [数据库连接池技术概述](https://juejin.im/post/5b7944c6e51d4538c86cf195)
+
 [java 数据库连接池实现原理](https://blog.csdn.net/frightingforambition/article/details/25464129)
+
 [mysql 主从复制与读写分离](https://blog.51cto.com/13555423/2068071)
+
 [SQL 与 NoSQL（关系型与非关系型）数据库的区别](https://www.cnblogs.com/wanghongyun/p/6193912.html)

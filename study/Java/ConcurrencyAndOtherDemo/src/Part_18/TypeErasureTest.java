@@ -22,5 +22,12 @@ public class TypeErasureTest {
         for (int i = 0; i < list.size(); i++) {
             System.out.println(list.get(i));
         }
+
+        short s1 = 1;
+        s1 += 1;
+
+
+        short s2 = 1;
+        s2 = (short) (s2 + 1);
     }
 }
