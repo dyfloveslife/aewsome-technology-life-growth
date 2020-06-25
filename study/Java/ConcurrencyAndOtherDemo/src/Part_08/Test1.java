@@ -16,6 +16,7 @@ class MyQueue {
             }
             list.add(" " + Math.random());
             System.out.println("线程 " + Thread.currentThread().getName() + " 生产了，队列已满...");
+            Thread.sleep(1000);
             notifyAll();
         } catch (InterruptedException e) {
             e.printStackTrace();
@@ -33,6 +34,7 @@ class MyQueue {
             temp = "" + list.get(0);
             list.remove(0);
             System.out.println("线程 " + Thread.currentThread().getName() + " 消费了，队列已空...");
+            Thread.sleep(1000);
             notifyAll();
         } catch (InterruptedException e) {
             e.printStackTrace();
@@ -51,9 +53,9 @@ class ProducerThread extends Thread {
         this.queue = queue;
     }
 
-    public void pushService() {
-        queue.push();
-    }
+//    public void pushService() {
+//        queue.push();
+//    }
 
     @Override
     public void run() {
@@ -83,11 +85,18 @@ public class Test1 {
     public static void main(String[] args) {
         MyQueue queue = new MyQueue();
 
+//        for (int i = 0; i < 5; i++) {
+//            new ProducerThread(queue, "Producer" + i).start();
+//        }
+
         new ProducerThread(queue, "Producer1").start();
         new ProducerThread(queue, "Producer2").start();
         new ProducerThread(queue, "Producer3").start();
         new ProducerThread(queue, "Producer4").start();
         new ProducerThread(queue, "Producer5").start();
+//        for (int j = 0; j < 5; j++) {
+//            new ConsumerThread(queue, "Consumer" + j).start();
+//        }
 
         new ConsumerThread(queue, "Consumer1").start();
         new ConsumerThread(queue, "Consumer2").start();
