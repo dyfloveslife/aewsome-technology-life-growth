@@ -2,6 +2,10 @@
 
 ./study/Java/ConcurrencyAndOtherDemo/out
 
+./study/Java/ConsistentHashing/out
+
 *.iml
 
 *.txt
+
+*.out

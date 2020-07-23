@@ -1,5 +1,5 @@
 package Part_20;
-
+/*
 import net.sf.cglib.proxy.Enhancer;
 import net.sf.cglib.proxy.MethodInterceptor;
 import net.sf.cglib.proxy.MethodProxy;
@@ -37,3 +37,4 @@ public class ProxyFactory implements MethodInterceptor {
         return res;
     }
 }
+*/
