@@ -3,6 +3,7 @@ import java.util.TreeMap;
 
 /**
  * 不带虚拟节点的一致性 hash 算法
+ * Ref: https://www.cnblogs.com/xrq730/p/5186728.html
  */
 public class ConsistentHashingWithoutVirtualNode {
     // 待加入 hash 环的服务器列表
@@ -38,7 +39,7 @@ public class ConsistentHashingWithoutVirtualNode {
         return (hash < 0) ? Math.abs(hash) : hash;
     }
 
-    // 得到应该理由的节点
+    // 得到应当路由到的节点
     private static String getServer(String node) {
         // 得到待路由节点的 hash 值
         int hash = getHash(node);
