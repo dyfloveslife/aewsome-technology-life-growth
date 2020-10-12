@@ -36,7 +36,6 @@
   - [架构设计与分布式](https://github.com/dyfloveslife/aewsome-technology-life-growth#%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%88%86%E5%B8%83%E5%BC%8F)
   - [面经](https://github.com/dyfloveslife/aewsome-technology-life-growth#%E9%9D%A2%E7%BB%8F)
   - [Python](https://github.com/dyfloveslife/aewsome-technology-life-growth#python)
-  - [C #](https://github.com/dyfloveslife/aewsome-technology-life-growth#c-sharp)
 - [工作](https://github.com/dyfloveslife/aewsome-technology-life-growth#%E5%B7%A5%E4%BD%9C)
   - [值得一读](https://github.com/dyfloveslife/aewsome-technology-life-growth#%E5%80%BC%E5%BE%97%E4%B8%80%E8%AF%BB)
   - [其它](https://github.com/dyfloveslife/aewsome-technology-life-growth#%E5%85%B6%E5%AE%83)
@@ -160,16 +159,6 @@ TODO
 - [《Python 中的 JSON 数据解析》](https://dyfloveslife.github.io/2018/08/14/learning-python-JSON/)
 - [《Python 中的 logging》](https://dyfloveslife.github.io/2018/08/16/learning-python-logging/)
 
-## C-sharp
-- [《C# 之 字符串格式化》](https://dyfloveslife.github.io/2017/04/27/StringFormatting/)
-- [《C# 之 控制台程序》](https://dyfloveslife.github.io/2017/06/14/Console-program/)
-- [《C# 之 窗体编程》](https://dyfloveslife.github.io/2017/06/15/Form-programming/)
-- [《C# 之 GDI+ 屏幕绘图》](https://dyfloveslife.github.io/2017/06/16/GDI-ScreenDrawing/)
-- [《C# 之 菜单和消息》](https://dyfloveslife.github.io/2017/06/16/Menus-and-Messages/)
-- [《C# 之 文件和目录操作》](https://dyfloveslife.github.io/2017/06/17/File-and-directory-operations/)
-- [《C# 之 修改数据库》](https://dyfloveslife.github.io/2017/06/19/Modify-the-database/)
-- [《C# 之 查询数据库》](https://dyfloveslife.github.io/2017/06/19/Query-the-database/)
-- [《C# 之 循环数组》](https://dyfloveslife.github.io/2017/06/25/LoopArray/)
 
 # 工作
 ## 值得一读
@@ -210,17 +199,13 @@ TODO
 
 ## 其它
 - [《基于相关滤波器（Correlation Filters）的 MOSSE 算法》](https://dyfloveslife.github.io/2019/12/16/Correlation-Filter/)
-- [《基于 Vultr + Ubuntu18.04 + BBR 的 ShadowsocksR 配置教程》](https://dyfloveslife.github.io/2018/05/14/Build-VPS/)
 - [《从 Hexo 到 Hugo 的配置与总结》](https://dyfloveslife.github.io/2019/11/16/hexo-to-hugo/)
 - [《去掉 DropBox 桌面右键菜单》](https://dyfloveslife.github.io/2019/11/05/Delete-dropbox-right-click-menu/)
-- [《数据结构之 期末复习》](https://dyfloveslife.github.io/2017/06/29/DataStructure-FinalReview/)
-- [《数据结构之 静态链表》](https://dyfloveslife.github.io/2017/03/14/DataStructure-StaticList/)
 - [《Windows 环境下配置 DHCP》](https://dyfloveslife.github.io/2017/06/03/Windows-DHCP/)
 - [《Windows 环境下配置 FTP 服务器》](https://dyfloveslife.github.io/2017/06/03/Windows-FTP/)
 - [《Windows 环境下配置 Web 服务器》](https://dyfloveslife.github.io/2017/06/03/Windows-Web/)
 - [《Windows 环境下配置 DNS 服务器》](https://dyfloveslife.github.io/2017/06/04/Windows-DNS/)
-- [《网络综合布线之 计算公式》](https://dyfloveslife.github.io/2017/06/22/NetworkCabling-1/)
-- [《网络综合布线之 工作区子系统设计过程》](https://dyfloveslife.github.io/2017/06/22/NetworkCabling-2/)
+- [《网络综合布线》](https://dyfloveslife.github.io/2017/06/22/NetworkCabling-1/)
 - [《OpenCV3.4 + VS2017 + Win7 环境搭建》](https://dyfloveslife.github.io/2018/08/01/opencv-BuildEnv/)
 - [《C 语言中 main 函数的参数》](https://dyfloveslife.github.io/2018/07/29/main_function_of_c/)
 - [《加速 Github 的 clone 速度》](https://dyfloveslife.github.io/2019/03/05/accelerate-github-clone/)
@@ -230,7 +215,7 @@ TODO
 
 # 生活
 - [《我使用的应用软件》](https://dyfloveslife.github.io/2017/03/27/My-computer-application-software/)
-- [《2017 下半年，给自己一个加油》](https://dyfloveslife.github.io/2017/07/12/2017-Second-half/)
+- [《2017 下半年小结》](https://dyfloveslife.github.io/2017/07/12/2017-Second-half/)
 - [《2017 年总结》](https://dyfloveslife.github.io/2018/02/11/2017-summary/)
 - [《2018 年 4 月到 8 月规划》](https://dyfloveslife.github.io/2018/04/04/2018-4to8month-plan/)
 - [《2018 毕业总结》](https://dyfloveslife.github.io/2018/06/21/2018-Graduation-Summary/)
