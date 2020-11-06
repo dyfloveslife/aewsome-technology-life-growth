@@ -196,6 +196,7 @@ TODO
 - [分布式系统相关挑战](https://aws.amazon.com/cn/builders-library/challenges-with-distributed-systems/)
 - [Memory Bandwidth Napkin Math](https://www.forrestthewoods.com/blog/memory-bandwidth-napkin-math/)
 - [Technical Writing Courses](https://developers.google.com/tech-writing)
+- [The 4Gotten generation: An open letter to India’s youth: Get off that smartphone. It can destroy you](https://timesofindia.indiatimes.com/blogs/The-underage-optimist/the-4gotten-generation-an-open-letter-to-indias-youth-get-off-that-smartphone-it-can-destroy-you/)
 
 ## 其它
 - [《基于相关滤波器（Correlation Filters）的 MOSSE 算法》](https://dyfloveslife.github.io/2019/12/16/Correlation-Filter/)
