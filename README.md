@@ -198,6 +198,8 @@ TODO
 - [Technical Writing Courses](https://developers.google.com/tech-writing)
 - [The 4Gotten generation: An open letter to India’s youth: Get off that smartphone. It can destroy you](https://timesofindia.indiatimes.com/blogs/The-underage-optimist/the-4gotten-generation-an-open-letter-to-indias-youth-get-off-that-smartphone-it-can-destroy-you/)
 - [What distinguishes great software engineers? (2019)](https://faculty.washington.edu/ajko/papers/Li2019WhatDistinguishesEngineers.pdf)
+- [Weak vs. Strong Memory Models](https://preshing.com/20120930/weak-vs-strong-memory-models/)：强弱内存模型的 CPU。
+- [This Is Why They Call It a Weakly-Ordered CPU](https://preshing.com/20121019/this-is-why-they-call-it-a-weakly-ordered-cpu/)：在弱内存模型的 CPU 上的内存访问乱序的问题。
 
 ## 其它
 - [《基于相关滤波器（Correlation Filters）的 MOSSE 算法》](https://dyfloveslife.github.io/2019/12/16/Correlation-Filter/)
