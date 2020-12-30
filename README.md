@@ -201,6 +201,7 @@ TODO
 - [What distinguishes great software engineers? (2019)](https://faculty.washington.edu/ajko/papers/Li2019WhatDistinguishesEngineers.pdf)
 - [Weak vs. Strong Memory Models](https://preshing.com/20120930/weak-vs-strong-memory-models/)：强弱内存模型的 CPU。
 - [This Is Why They Call It a Weakly-Ordered CPU](https://preshing.com/20121019/this-is-why-they-call-it-a-weakly-ordered-cpu/)：在弱内存模型的 CPU 上的内存访问乱序的问题。
+- [Computer Science textbooks that are freely available online](https://csgordon.github.io/books.html)
 
 ## 其它
 - [《基于相关滤波器（Correlation Filters）的 MOSSE 算法》](https://dyfloveslife.github.io/2019/12/16/Correlation-Filter/)
