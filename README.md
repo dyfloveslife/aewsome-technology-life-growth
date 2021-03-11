@@ -203,6 +203,8 @@ TODO
 - [This Is Why They Call It a Weakly-Ordered CPU](https://preshing.com/20121019/this-is-why-they-call-it-a-weakly-ordered-cpu/)：在弱内存模型的 CPU 上的内存访问乱序的问题。
 - [Computer Science textbooks that are freely available online](https://csgordon.github.io/books.html)
 - [Patterns of Distributed Systems](https://martinfowler.com/articles/patterns-of-distributed-systems/)
+- [The Key To Accelerating Your Coding Skills](http://blog.thefirehoseproject.com/posts/learn-to-code-and-be-self-reliant/)
+
 
 ## 其它
 - [《基于相关滤波器（Correlation Filters）的 MOSSE 算法》](https://dyfloveslife.github.io/2019/12/16/Correlation-Filter/)
