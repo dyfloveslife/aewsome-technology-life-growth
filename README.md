@@ -204,6 +204,7 @@ TODO
 - [Computer Science textbooks that are freely available online](https://csgordon.github.io/books.html)
 - [Patterns of Distributed Systems](https://martinfowler.com/articles/patterns-of-distributed-systems/)
 - [The Key To Accelerating Your Coding Skills](http://blog.thefirehoseproject.com/posts/learn-to-code-and-be-self-reliant/)
+- [The Paradox of Abundance](https://perell.com/note/the-paradox-of-abundance/)
 
 
 ## 其它
